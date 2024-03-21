@@ -1,0 +1,17 @@
+{
+  "name": "MyReactNativeApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.1.6",
+    "@react-native/metro-config": "^0.73.5",
+    "metro-config": "^0.80.6",
+    "react": "18.2.0",
+    "react-native": "^0.73.6",
+    "yarn": "^1.22.22"
+  }
+}

@@ -1,0 +1,1 @@
+Esto es una pequeña aplicación en la cual hemos integrado React Native sobre un proyecto Android existente. El proceso al principio puede ser un poco tedioso, por eso os animo a echar un vistazo aquí para ver los detalles sobre cómo implementarlo: https://project.digio.es/projects/practicas/wiki/implementar-react-native-sobre-un-proyecto-android-con-groovy 
